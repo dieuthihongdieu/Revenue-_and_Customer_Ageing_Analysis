@@ -37,10 +37,14 @@ Equipment should be one of the dimension and customer should be one of the dimen
 Other parts: Monthly Rate, Payment Date, Status, Active, Net Revenue and Deduction should be in fact table. 
 
 ## 4.	Power BI Query &Modelling
-![anh](/images/datamodel.png)
+
+![datamodel](https://user-images.githubusercontent.com/88467188/131862508-27c5ee76-793d-40df-90c6-d5a195f467e1.png)
+![revenue Analysis](https://user-images.githubusercontent.com/88467188/131862526-20bce753-bc87-497e-af83-cca7783806fc.png)
+
 
 ## 5.	Power BI Reports
-
+![revenue Analysis](https://user-images.githubusercontent.com/88467188/131862526-20bce753-bc87-497e-af83-cca7783806fc.png)
+![Customerageing](https://user-images.githubusercontent.com/88467188/131862491-9e41444e-98ba-4073-9670-5c5b7938fc55.png)
 
 ## 6.	Power BI Services.
 
