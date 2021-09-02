@@ -16,7 +16,7 @@ Files Data consist of categories: TXNumber ( transaction number) , Equipment, Cu
 |             |                             |                                                              |                                                                                                                             |                                                                                   |
 ## 2. How to Consume Data (Decide Data Storage Decision) 
 
-**Revenue Report:**
+**Revenue Analysis Report:**
 -	 Net Revenue
 -	Deduction 
 -	Net Profit = Net Revenue – Deduction 
@@ -39,13 +39,16 @@ Other parts: Monthly Rate, Payment Date, Status, Active, Net Revenue and Deducti
 ## 4.	Power BI Query &Modelling
 
 ![datamodel](https://user-images.githubusercontent.com/88467188/131862508-27c5ee76-793d-40df-90c6-d5a195f467e1.png)
-![revenue Analysis](https://user-images.githubusercontent.com/88467188/131862526-20bce753-bc87-497e-af83-cca7783806fc.png)
+
 
 
 ## 5.	Power BI Reports
+**Revenue Analysis Report:**
 ![revenue Analysis](https://user-images.githubusercontent.com/88467188/131862526-20bce753-bc87-497e-af83-cca7783806fc.png)
+
+**Customer Ageing Analysis:**
 ![Customerageing](https://user-images.githubusercontent.com/88467188/131862491-9e41444e-98ba-4073-9670-5c5b7938fc55.png)
 
 ## 6.	Power BI Services.
 
-I published dashboards on Power BI services so anyone can open and interact with Revenue and Customer Ageing Analysis report.
+I published dashboards on Power BI services so anyone can open and interact with Revenue and Customer Ageing Analysis dashboard.
