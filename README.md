@@ -1,4 +1,5 @@
-# REVENUE AND CUSTOMER AGEING
+# REVENUE AND CUSTOMER AGEING ANALYSIS
+
 This project I do visual data from Equipment Supply Company. The client is supplying equipment to different customers from 3 of his branches. 
 The company want to analyze the Revenue and Customer Ageing reports so he can base on them to decide which customer to prioritize when the request is made.
 
@@ -43,10 +44,10 @@ Other parts: Monthly Rate, Payment Date, Status, Active, Net Revenue and Deducti
 
 
 ## 5.	Power BI Reports
-**Revenue Analysis Report:**
+
 ![revenue Analysis](https://user-images.githubusercontent.com/88467188/131862526-20bce753-bc87-497e-af83-cca7783806fc.png)
 
-**Customer Ageing Analysis:**
+
 ![Customerageing](https://user-images.githubusercontent.com/88467188/131862491-9e41444e-98ba-4073-9670-5c5b7938fc55.png)
 
 ## 6.	Power BI Services.
