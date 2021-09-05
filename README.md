@@ -53,4 +53,6 @@ Other parts: Monthly Rate, Payment Date, Status, Active, Net Revenue and Deducti
 ## 6.	Power BI Services.
 
 I published dashboards on Power BI services so anyone can open and interact with Revenue and Customer Ageing Analysis dashboard.
-<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=b32fe2cb-ac69-466f-a644-c7b4fd616902&autoAuth=true&ctid=35e153a3-5bc8-4fc0-8bfa-5d41afd44545&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtZy1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+[**Power BI online**](https://app.powerbi.com/view?r=eyJrIjoiYTk4ZDlmZDYtYzEwYi00N2VjLTgwMzgtODNiZDgxNTkzZmE4IiwidCI6IjM1ZTE1M2EzLTViYzgtNGZjMC04YmZhLTVkNDFhZmQ0NDU0NSIsImMiOjN9&pageName=ReportSection0319eded0ab8c43200d8)
+
